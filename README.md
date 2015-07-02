@@ -22,6 +22,6 @@ by fikard&copy;
 ###History
 - 7.2	Import ***opencv*** library
 - 7.1   Create Project
-<br />
+
 <a name="setup"></a>
 ###Setup
